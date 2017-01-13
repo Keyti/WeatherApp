@@ -1,0 +1,43 @@
+body{
+  background-color: pink;
+  background-size: cover;
+}
+
+h1{
+  color: white;
+  font-family: Molle;
+}
+
+h4{
+  color: white;
+  font-family: Lato;
+}
+
+h5,p{
+  color: white;
+  font-family: "Sans Pro";
+}
+
+div{
+  color: beige;
+}
+
+.btn{
+  color: white;
+}
+
+.btn:hover{
+  color: red;
+}
+
+#srodek{
+  background-color: rgba(0,0,0,0.3);
+  padding: 10px 0;
+}
+
+.change{
+  cursor: help;
+}
+.change:hover{
+  color: blue;
+}
